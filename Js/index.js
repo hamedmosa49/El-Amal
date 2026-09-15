@@ -19,6 +19,7 @@ links.forEach(function (link) {
 });
 
 
+
 // تغيير شكل الـ Navbar أثناء النزول
 window.addEventListener("scroll", function () {
 
